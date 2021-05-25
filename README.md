@@ -2,7 +2,7 @@
 ---
 :sunny: I’m currently learning MVC design patterns for web applications, accessibility standards, and responsive design.
 ---
-	:rainbow: Check out some of my favorite projects and repos: 
+🌈 Check out some of my favorite projects and repos: 
  
 - [GardenApp](https://github.com/esievaughn/Python-Live-Project)
 
