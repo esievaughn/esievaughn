@@ -1,6 +1,6 @@
 ### WELCOME 👋
 ---
-:sunny: I’m currently learning MVC design patterns for web applications, accessibility standards, and responsive design.
+##### :sunny: I’m currently learning MVC design patterns for web applications, accessibility standards, and responsive design.
 ---
 🌈 Check out some of my favorite projects and repos: 
  
