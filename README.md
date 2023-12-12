@@ -1,16 +1,11 @@
 ### WELCOME 👋
 ---
-##### :sunny: Working and growing my test automation skillset. Previous project passions include MVC design patterns for web applications, accessibility standards, and responsive design.
+##### :sunny: Refining heuristics to deliver product stability through diligent manual/automated testing methodologies. Always learning and adopting best test practices.
 ---
-🌈 Check out some of my favorite projects and repos: 
- 
+🌈 Coding projects during my initial learning phase:
+
 - [GardenApp](https://github.com/esievaughn/Python-Live-Project)
 
 - [TheatreMVC](https://github.com/esievaughn/TheaterMVC)
 
-- [TwentyOneGame](https://github.com/esievaughn/C-Sharp-Projects/tree/master/TwentyOne)
-
-- [OnePageWebsite](https://github.com/esievaughn/Javascript-Projects/tree/main/OnePageWebsite)
-
-- [DjangoCheckbook](https://github.com/esievaughn/DjangoCheckbook)
 
